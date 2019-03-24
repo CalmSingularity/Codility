@@ -49,7 +49,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\01_BinaryGap\BinaryGap.csproj">
+    <ProjectReference Include="..\BinaryGap\BinaryGap.csproj">
       <Project>{942745a4-2d4e-489d-a894-a3e29dc3142c}</Project>
       <Name>BinaryGap</Name>
     </ProjectReference>

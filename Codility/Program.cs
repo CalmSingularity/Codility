@@ -6,7 +6,8 @@ namespace Codility
 	{
 		static void Main(string[] args)
 		{
-			// Lesson 1. Iterations
+			// https://app.codility.com/programmers/lessons/1-iterations/
+			// BinaryGap
 			Console.WriteLine(BinaryGap.Program.MaxBinaryGap(5));
 			Console.WriteLine(BinaryGap.Program.MaxBinaryGap(9));
 			Console.WriteLine(BinaryGap.Program.MaxBinaryGap(32));
