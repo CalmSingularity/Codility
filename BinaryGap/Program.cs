@@ -35,6 +35,7 @@ namespace BinaryGap
 
 		static void Main(string[] args)
 		{
+			// Test
 			Console.WriteLine(MaxBinaryGap(529));
 			Console.WriteLine(MaxBinaryGap(579));
 			//...

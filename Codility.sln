@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility", "Codility\Codili
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryGap", "BinaryGap\BinaryGap.csproj", "{942745A4-2D4E-489D-A894-A3E29DC3142C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyclicRotation", "CyclicRotation\CyclicRotation.csproj", "{0445868D-C94A-4732-9234-D5108889130F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{942745A4-2D4E-489D-A894-A3E29DC3142C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{942745A4-2D4E-489D-A894-A3E29DC3142C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{942745A4-2D4E-489D-A894-A3E29DC3142C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0445868D-C94A-4732-9234-D5108889130F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0445868D-C94A-4732-9234-D5108889130F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0445868D-C94A-4732-9234-D5108889130F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0445868D-C94A-4732-9234-D5108889130F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
